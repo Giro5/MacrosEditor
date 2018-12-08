@@ -1,0 +1,23 @@
+a
+{2}
+{2}
+{8}
+
+b
+{3}2
+{2}3
+{2}4
+
+c
+{1}m
+
+d * 3
+{a}
+
+f ~
+echo hi world!
+color 7
+
+g ~* 4
+color 2
+echo Merry Christmas!!!

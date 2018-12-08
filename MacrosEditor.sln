@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28315.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MacrosEditor", "MacrosEditor\MacrosEditor.pyproj", "{9CCC0317-F584-415A-BA08-E33849F67504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CCC0317-F584-415A-BA08-E33849F67504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCC0317-F584-415A-BA08-E33849F67504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA4A27DE-7AE9-4288-B42E-CCE777487FEC}
+	EndGlobalSection
+EndGlobal
